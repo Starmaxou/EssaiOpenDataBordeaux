@@ -20,7 +20,7 @@ CUB.ready(() => {
       '<img src="//data.bordeaux-metropole.fr/dev/exemples/samples/loading.gif" style="border: 1px solid black"/>'
   });
 
-  // Chargement des lignes de tram
+  //  Chargement des lignes de tram
   const lignes = [
     { ligneGid: 59, nom: 'Ligne A', label: 'A', color: '#81197F' },
     { ligneGid: 60, nom: 'Ligne B', label: 'B', color: '#DA003E' },
